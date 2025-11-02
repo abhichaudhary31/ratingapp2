@@ -18,7 +18,7 @@ const Header: React.FC = () => {
         </h1>
         <HeartIcon className="w-10 h-10 text-red-500 animate-pulse" />
       </div>
-      <p className="mt-2 text-lg text-gray-400">Our Shared Emotional Journey</p>
+      <p className="mt-2 text-lg text-gray-400">Your Shared Emotional Journey</p>
     </header>
   );
 };
