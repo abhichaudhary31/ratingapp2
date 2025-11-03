@@ -50,7 +50,7 @@ interface EmojiDotProps {
   personKey: 'person1' | 'person2';
 }
 
-const STUTI_IMAGE_URL = 'https://media.licdn.com/dms/image/v2/D5603AQGUPkiYjj0_pA/profile-displayphoto-scale_400_400/B56ZpE_frvJsAg-/0/1762094087592?e=1763596800&v=beta&t=wt1sSG0xNGBWFm19ljZzvU-hB5HL4CkF7mIweiUpGt0';
+const STUTI_IMAGE_URL = 'https://media.licdn.com/dms/image/v2/D5603AQFqSu4h-0w9rA/profile-displayphoto-scale_400_400/B56ZpK_TEvJkAg-/0/1762194699267?e=1763596800&v=beta&t=14eOk2P5Bz4laQVxKWkd4IjeKxW6OlWb3PdhHXmc9Es';
 const ABHISHEK_IMAGE_URL = 'https://media.licdn.com/dms/image/v2/D5603AQHznM-hzXzEGw/profile-displayphoto-shrink_800_800/B56ZRfHIZRH0Ag-/0/1736762493158?e=1763596800&v=beta&t=oi46eJLK6eScPDbMwj_90WPxmvr2S7oyGWuWmcpVMzE';
 
 
